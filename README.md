@@ -26,8 +26,9 @@ I'm seeking a challenging role as a computer vision engineer, ideally with a for
 - Robotics and control systems: ROS, Gazebo, Simulink
 - Cloud computing: GCP
 
-## 🏆 Experience
-Development of [PLAEX](https://plaex.net/)'s computer vision system for [Garby](https://plaex.net/products/garby/)
+## 🏆 Industry experience
+- Development of [PLAEX](https://plaex.net/)'s computer vision system for [Garby](https://plaex.net/products/garby/)
+
 Thanks for stopping by my GitHub profile! I'm always happy to connect with other robotics and AI enthusiasts, so don't hesitate to reach out.
 
 
