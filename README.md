@@ -1,6 +1,6 @@
 # Hello Amigos, I'm Henk Jekel 👋
 
-I'm a robotics engineer with a passion for deep learning and computer vision. I recently reproduced the paper EfficientNetV2: Smaller Models and Faster Training and have shared my code in a GitHub repository. I'm constantly learning and exploring new technologies, and I'm excited about the potential of machine learning to revolutionize the field of robotics.
+I'm a Dutch robotics engineer with a passion for deep learning and computer vision. I recently reproduced the paper EfficientNetV2: Smaller Models and Faster Training and have shared my code in a GitHub repository. I'm constantly learning and exploring new technologies, and I'm excited about the potential of machine learning to revolutionize the field of robotics.
 
 ## 🔭 What I'm working on
 - Reproducing other cutting-edge deep learning papers and experimenting with new architectures and techniques
