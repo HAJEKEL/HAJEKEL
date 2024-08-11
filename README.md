@@ -31,4 +31,9 @@ I'm seeking a challenging role as a computer vision engineer, ideally with a for
 
 Thanks for stopping by my GitHub profile! I'm always happy to connect with other robotics and AI enthusiasts, so don't hesitate to reach out.
 
-
+## Mantra
+1. Make requirements less dumb, i.e, reduce to the "one" purpose
+2. Delete everything in the system that is not absolutely needed
+3. Re-add what is still needed. If you don't have anything to re-add you did not delete enough. 
+4. Speed it up, make more efficient 
+5. Automate
