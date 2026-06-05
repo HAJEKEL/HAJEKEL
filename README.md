@@ -7,41 +7,18 @@ I am also thankful to Jae Maloney, who guided me during my internship at KLM, wh
 
 I also want to mention Martin Klomp. During my studies we developed the MIRTE Master, a hardware platform for TU Delft’s Robotics master program, enabling students to deploy their software on real hardware, something that had been missing during my studies.
 
-After completing my master’s at TU Delft, I was hired directly at Demcon Unmanned Systems, where I obtained a permanent contract after nine months. I continue to work there with great pleasure, applying everything I learned during my studies and side jobs and more.
-
-
-## 🔭 What I'm working on
-- Reproducing other cutting-edge deep learning papers and experimenting with new architectures and techniques
-- Building projects that integrate computer vision and robotics, such as object recognition and autonomous navigation
-- Developing my skills in software engineering and agile methodologies to build reliable and scalable systems
-
-## 🌱 What I'm currently learning
-- Reinforcement learning and how it can be applied to robotics
-- Advanced computer vision techniques such as multi-object tracking and 3D reconstruction
-- Cloud computing and distributed systems for scalable machine learning
+After completing my master’s at TU Delft, I was hired directly at [Demcon Unmanned Systems](https://demcon-unmanned.nl/), where I obtained a permanent contract after nine months. I continue to work there with great pleasure, applying everything I learned during my studies and side jobs and more.
 
 ## 📫 How to reach me
 - Check out my [portfolio website](https://hajekel.github.io/) to see some of my past projects 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/henk-jekel-748054259/)
-- Email me on [Email](mailto:hendrikjekel@gmail.com)
+- Email me on [Email](mailto:hendrikjekelwk@gmail.com)
 
-## 💼 Looking for
-I'm seeking a challenging role as a computer vision engineer, ideally with a forward-thinking company in the robotics or autonomous vehicle space. I'm particularly interested in opportunities with Tesla, where I can contribute to cutting-edge research and development.
-
-## 🚀 Skills
-- Programming languages: Python, C++, MATLAB
-- Deep learning frameworks: TensorFlow, PyTorch, Keras
-- Robotics and control systems: ROS, Gazebo, Simulink
-- Cloud computing: GCP
 
 ## 🏆 Industry experience
 - Development of [PLAEX](https://plaex.net/)'s computer vision system for [Garby](https://plaex.net/products/garby/)
+- Development of the [Mirte Master](https://mirte.org/nl/robots/master) for the Delft University master program in Robotics.
+- Development of the first generative AI phone bot at [KLM](https://www.klm.nl/en?showredirectnotice=1), almost indistinguishable from a real human.
+- Develompment on the USV's at [Demcon Unmanned Systems](https://demcon-unmanned.nl/). 
 
 Thanks for stopping by my GitHub profile! I'm always happy to connect with other robotics and AI enthusiasts, so don't hesitate to reach out.
-
-## Mantra
-1. Make requirements less dumb, i.e, reduce to the "one" purpose
-2. Delete everything in the system that is not absolutely needed
-3. Re-add what is still needed. If you don't have anything to re-add you did not delete enough. 
-4. Speed it up, make more efficient 
-5. Automate
