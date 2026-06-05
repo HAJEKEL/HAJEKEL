@@ -1,6 +1,14 @@
-# Hello Amigos, I'm Henk Jekel 👋
+# Hello, I'm Henk Jekel 👋
 
-I'm a Dutch robotics engineer with a passion for deep learning and computer vision. I recently reproduced the paper EfficientNetV2: Smaller Models and Faster Training and have shared my code in a GitHub repository. I'm constantly learning and exploring new technologies, and I'm excited about the potential of machine learning to revolutionize the field of robotics.
+
+I am a Dutch robotics engineer passionate about systems engineering and the implementation of state-of-the-art autonomous navigation algorithms. This GitHub page hosts several of my university master projects, including the repository that contains the code used for my published paper “[Visio-Verbal Teleimpedance Interface: Enabling Semi-Autonomous Control of Physical Interaction via Eye Tracking and Speech](https://arxiv.org/abs/2508.20037)” in the journal “[Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2026.1749105/full).” I am grateful to my supervisors, Luka Peternel and Alejandro Diaz Rosales. This work was a collaboration between Delft University and CERN.
+
+I am also thankful to Jae Maloney, who guided me during my internship at KLM, where we created the first generative AI phone number that salespeople could call to train and prepare their sales pitch. The AI would answer the phone and closely resemble the person they would contact later that day.
+
+I also want to mention Martin Klomp. During my studies we developed the MIRTE Master, a hardware platform for TU Delft’s Robotics master program, enabling students to deploy their software on real hardware, something that had been missing during my studies.
+
+After completing my master’s at TU Delft, I was hired directly at Demcon Unmanned Systems, where I obtained a permanent contract after nine months. I continue to work there with great pleasure, applying everything I learned during my studies and side jobs and more.
+
 
 ## 🔭 What I'm working on
 - Reproducing other cutting-edge deep learning papers and experimenting with new architectures and techniques
